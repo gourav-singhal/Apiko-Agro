@@ -67,4 +67,4 @@ Each controller should have documentation about each route, that is described. W
 ```
 -------------
 
-Made by [![Custom Software Development Company](https://s3-eu-west-1.amazonaws.com/jssolutions/github/jss_xs.png)](http://jssolutionsdev.com/?github=Databazel) - [Custom Software Development Company](http://jssolutionsdev.com/?github=Databazel)
+Made by [![Custom Software Development Company](https://s3-eu-west-1.amazonaws.com/jssolutions/github/jss_xs.png)](http://jssolutionsdev.com/?github=Apiko-Agro) - [Custom Software Development Company](http://jssolutionsdev.com/?github=Apiko-Agro)
