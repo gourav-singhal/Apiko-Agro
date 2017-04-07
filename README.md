@@ -65,4 +65,6 @@ Each controller should have documentation about each route, that is described. W
          param2 {boolean}
 **/         
 ```
+-------------
 
+Made by [![Custom Software Development Company](https://s3-eu-west-1.amazonaws.com/jssolutions/github/jss_xs.png)](http://jssolutionsdev.com/?github=Databazel) - [Custom Software Development Company](http://jssolutionsdev.com/?github=Databazel)
