@@ -1,0 +1,2 @@
+export const INIT_POLYGONS = 'INIT_POLYGONS';
+export const ACTIVATE_POLYGON = 'ACTIVATE_POLYGON';

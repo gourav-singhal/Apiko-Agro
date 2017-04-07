@@ -1,0 +1,29 @@
+.gm-style > .gmnoprint {
+  margin: 10px 0 0 24px !important;
+}
+.gm-style > .gm-bundled-control-on-bottom {
+  margin: 10px !important;
+}
+
+div.map {
+  position: absolute;
+  width: 100%;
+  height: calc(100% - 40px);
+  top: 0;
+  left: 0;
+}
+.map-content {
+  .ui.inverted.dimmer {
+    z-index: 1;
+    background-color: rgba(255,255,255,.35);
+  }
+
+  .map-toolbar {
+    z-index: 1;
+    position: relative;
+    padding: 10px 24px 10px 348px;
+    .map-drawing-tools {
+      margin-left: 5px;
+    }
+  }
+}

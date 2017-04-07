@@ -1,0 +1,22 @@
+.notificator.message {
+  position: fixed;
+  bottom: 54px;
+  width: 320px;
+  margin: calc(50% - 160px);
+  z-index: 104;
+  animation-name: slideUp;
+  animation-duration: 0.4s;
+  animation-timing-function: ease-out;
+}
+
+@keyframes slideUp {
+  0% {
+    transform: translateY(35%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0%);
+    opacity: 1;
+    visibility: visible;
+  }
+}

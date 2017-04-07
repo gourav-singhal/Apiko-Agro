@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "Машина",
+    "number": "В06597АІ",
+    "type": "Цистерна Харчова - С",
+    "producer": " ",
+    "model": "ГАЗ 5312",
+    "productionYear": "1991",
+    "typeOfFuel": "бензин"
+  },
+  {
+    "id": 2,
+    "name": "Машина",
+    "number": "В08916ВА",
+    "type": "Самоскид - С",
+    "producer": "",
+    "model": "ГАЗ 53 Б",
+    "productionYear": "1984",
+    "typeOfFuel": "бензин"
+  },
+  {
+    "id": 3,
+    "name": "Машина",
+    "number": "В08913ВА",
+    "type": "Самоскид - С",
+    "producer": "",
+    "model": "ЗІЛ ММЗ 554М",
+    "productionYear": "1992",
+    "typeOfFuel": "дизель"
+  },
+  {
+    "id": 4,
+    "name": "Машина",
+    "number": "В08613ВА",
+    "type": "Цистерна - С",
+    "producer": "",
+    "model": "ГАЗ 52",
+    "productionYear": "1979",
+    "typeOfFuel": "бензин"
+  },
+  {
+    "id": 5,
+    "name": "Машина",
+    "number": "ВО7616АІ",
+    "type": "Спеціалізований вантажний фургон малотонажний - В",
+    "producer": "",
+    "model": "ГАЗ 2752 - 404",
+    "productionYear": "2008",
+    "typeOfFuel": "бензин"
+  },
+  {
+    "id": 6,
+    "name": "Машина",
+    "number": "ВО8946ВА ",
+    "type": "Цистерна - С",
+    "producer": "",
+    "model": "ГАЗ 5201",
+    "productionYear": "1984",
+    "typeOfFuel": "бензин"
+  },
+  {
+    "id": 7,
+    "name": "Машина",
+    "number": "В06596АІ",
+    "type": "Самоскид - С",
+    "producer": "",
+    "model": "Газ 53 Б",
+    "productionYear": "1973",
+    "typeOfFuel": "дизель"
+  },
+  {
+    "id": 8,
+    "name": "Машина ",
+    "number": "В02060А1",
+    "type": "Самоскид - С",
+    "producer": "",
+    "model": "ЗІЛ ММЗ 554Д",
+    "productionYear": "1989",
+    "typeOfFuel": "дизель"
+  },
+  {
+    "id": 9,
+    "name": "Машина",
+    "number": "В04976АР",
+    "type": "Самоскид - С",
+    "producer": "",
+    "model": "ЗІЛ - ММЗ 4502",
+    "productionYear": "1989",
+    "typeOfFuel": "дизель"
+  },
+  {
+    "id": 10,
+    "name": "Машина",
+    "number": "ВО6598АІ",
+    "type": "Самоскид - С",
+    "producer": "",
+    "model": "ЗІЛ - ММЗ 45021",
+    "productionYear": "1987",
+    "typeOfFuel": "дизель"
+  },
+  {
+    "id": 11,
+    "name": "Машина",
+    "number": "ВОЗ132АЕ",
+    "type": "Самоскид - С",
+    "producer": "",
+    "model": "МАЗ 5551",
+    "productionYear": "1993",
+    "typeOfFuel": "дизель"
+  },
+  {
+    "id": 12,
+    "name": "Машина",
+    "number": "ВО9792АА",
+    "type": "Сідловий тягач -Е",
+    "producer": "",
+    "model": "МАЗ 54323",
+    "productionYear": "1996",
+    "typeOfFuel": ""
+  },
+  {
+    "id": 13,
+    "name": "Машина",
+    "number": "В09136АК",
+    "type": "Самоскид - С",
+    "producer": "",
+    "model": "КАМАЗ 45143",
+    "productionYear": "2008",
+    "typeOfFuel": "дизель"
+  },
+  {
+    "id": 14,
+    "name": "Машина",
+    "number": "ВО7986АХ",
+    "type": "Самоскид - С",
+    "producer": "",
+    "model": "Камаз 5511",
+    "productionYear": "1987",
+    "typeOfFuel": "дизель"
+  },
+  {
+    "id": 15,
+    "name": "Машина ",
+    "number": "ВО 1261 AM",
+    "type": "Самоскид - С",
+    "producer": "",
+    "model": "Камаз 45143",
+    "productionYear": "2008",
+    "typeOfFuel": "дизель"
+  },
+  {
+    "id": 16,
+    "name": "Машина",
+    "number": "В00184АА",
+    "type": "Бортовий - С",
+    "producer": "",
+    "model": "Камаз 5320",
+    "productionYear": "1980",
+    "typeOfFuel": "дизель"
+  },
+  {
+    "id": 17,
+    "name": "Машина",
+    "number": "ВО0922ВЕ",
+    "type": "Самоскид ",
+    "producer": "",
+    "model": "Камаз 55102",
+    "productionYear": "1995",
+    "typeOfFuel": "дизель"
+  },
+  {
+    "id": 18,
+    "name": "Машина",
+    "number": "ВО2518АА",
+    "type": "Самоскид - С",
+    "producer": "",
+    "model": "Камаз55102",
+    "productionYear": "1987",
+    "typeOfFuel": "дизель"
+  },
+  {
+    "id": 19,
+    "name": "Машина",
+    "number": "В02511 АХ",
+    "type": "Мікроавтобус-D",
+    "producer": "",
+    "model": "Уаз 2206",
+    "productionYear": "2002",
+    "typeOfFuel": "газ"
+  },
+  {
+    "id": 20,
+    "name": "Машина",
+    "number": "О6082ВТ",
+    "type": "Вантажопасажирський - В",
+    "producer": "",
+    "model": "УАЗ 3303",
+    "productionYear": "1987",
+    "typeOfFuel": ""
+  },
+  {
+    "id": 21,
+    "name": "Машина",
+    "number": "ВО4526АТ",
+    "type": "Легковий Універсал -В",
+    "producer": "",
+    "model": "Ваз 21213",
+    "productionYear": "2003",
+    "typeOfFuel": "газ/бензин"
+  }
+]

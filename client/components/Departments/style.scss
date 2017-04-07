@@ -1,0 +1,27 @@
+.departments-list {
+  padding-top: 20px;
+}
+
+.remove-department-but {
+  margin-top: 20px;
+}
+
+.ui.accordion .accordion {
+  margin: 0;
+}
+
+.ui.selection.list>.item.active  {
+    font-weight: 600;
+    color: #000;
+    background-color: #f8f8f8;
+}
+
+.localities-color-picker {
+  position: absolute;
+  top: 7px;
+  right: 14px;
+}
+
+.locality-item-in-departs {
+  padding: .2em 1em .2em !important;
+}

@@ -1,0 +1,18 @@
+.segment.map-panel {
+  padding: 0;
+
+  .accordion {
+    box-shadow: none;
+    background: rgba(0,0,0,.03);
+    & > .content {
+      background: #fff;
+      padding: .5em 1em;
+    }
+    .list .content {
+      padding: 0;
+    }
+  }
+  .check-box-item {
+    padding: 7px;
+  }
+}

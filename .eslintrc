@@ -1,0 +1,21 @@
+{
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "allowImportExportEverywhere": true
+  },
+  "plugins": [
+    "react",
+    "jsx-a11y"
+  ],
+  "extends": [
+    "airbnb"
+  ],
+  "rules": {
+    "no-use-before-define": [
+      "error", { "functions": false, "classes": true }
+    ],
+    "import/no-unresolved": 0,
+    "react/display-name": 0,
+    "no-underscore-dangle": "off"
+  }
+}
